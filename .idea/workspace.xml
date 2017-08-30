@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d252fb08-ff9b-40c1-a9b4-26e7a9e88702" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component-cycle/src/App.js" afterPath="$PROJECT_DIR$/component-cycle/src/App.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component-cycle/src/index.js" afterPath="$PROJECT_DIR$/component-cycle/src/index.js" />
-    </list>
+    <list default="true" id="d252fb08-ff9b-40c1-a9b4-26e7a9e88702" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,24 +15,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/component-cycle/src/App.js">
+        <entry file="file://$PROJECT_DIR$/forms-in-react/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="75" column="20" lean-forward="false" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
+            <state relative-caret-position="-1080">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/component-cycle/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,6 +64,7 @@
         <option value="$PROJECT_DIR$/hello-world/src/App.js" />
         <option value="$PROJECT_DIR$/component-cycle/src/index.js" />
         <option value="$PROJECT_DIR$/component-cycle/src/App.js" />
+        <option value="$PROJECT_DIR$/forms-in-react/src/App.js" />
       </list>
     </option>
   </component>
@@ -139,6 +125,17 @@
               <item name="component-cycle" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="React-JS-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="React-JS-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="forms-in-react" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="React-JS-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="React-JS-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="forms-in-react" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -187,12 +184,12 @@
       <workItem from="1504003184987" duration="1354000" />
       <workItem from="1504005550917" duration="4191000" />
       <workItem from="1504053163782" duration="316000" />
-      <workItem from="1504057835829" duration="6960000" />
+      <workItem from="1504057835829" duration="15190000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22657000" />
+    <option name="totallyTimeSpent" value="30887000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -442,20 +439,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/component-cycle/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="85" column="5" lean-forward="true" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/component-cycle/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forms-in-react/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/component-cycle/src/App.js">
+    <entry file="file://$PROJECT_DIR$/forms-in-react/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="75" column="20" lean-forward="false" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
+        <state relative-caret-position="270">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forms-in-react/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1080">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
